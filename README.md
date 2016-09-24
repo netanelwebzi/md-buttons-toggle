@@ -6,7 +6,7 @@ Angular Material module for creating group of buttons with toggle functionality.
 
 Online demo
 -------------
-**JSFiddle:** http://jsfiddle.net/n2p1ocqz/
+**JSFiddle:** http://jsfiddle.net/n2p1ocqz/5/
 
 
 ----------
